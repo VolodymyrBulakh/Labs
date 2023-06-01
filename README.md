@@ -1,4 +1,4 @@
-# Labs
+# Labs тр12
 посилання на всі лабораторні:
 1)
 https://github.com/VolodymyrBulakh/lab1.git
